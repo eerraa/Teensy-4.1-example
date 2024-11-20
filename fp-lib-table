@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${DATA}/AlexandriaLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+)
